@@ -1,3 +1,4 @@
-Je m'intéresse au développement web
-- 🌱 J'apprends actuellement  le php, le javascript et tous ce qui est en rapport avec le développeme web
-- 📫 Comment me joindre papaousseynoud689@gmail.com
+-Je m'intéresse au développement web
+-Je suis passionné de foot, de musculation et de mangas
+- 🌱 Je me suis lancer comme defis de devenir developpeur full-stack javascript
+- 📫 Comment me joindre ousseynou.dev@gmail.com
